@@ -1,4 +1,4 @@
-# Shop Billing
+# Shop Billing Service
 
 small billing module for git lab
 
