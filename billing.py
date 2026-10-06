@@ -1,4 +1,4 @@
-TAX_RATE = 0.21
+TAX_RATE = 0.20
 
 
 def total(price):
