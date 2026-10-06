@@ -2,7 +2,7 @@ TAX_RATE = 0.20
 
 
 def total(price):
-    return price * (1 + TAX_RATE)
+    return price + TAX_RATE
 
 
 def discount(price, pct):
